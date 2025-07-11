@@ -145,7 +145,7 @@ function ContactUs() {
                 Come say hello at our office.
               </p>
               <p className="mt-2 text-blue-500 dark:text-blue-400">
-                10473 Mapledale St Bellflower, CA 90706 US
+                1680 Michigan Ave, Miami Beach, FL 33139, USA
               </p>
             </div>
           </div>
